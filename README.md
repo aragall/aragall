@@ -1,52 +1,7 @@
 # <p align="center">💻 Raul Aragall Taberner 📈
 <p align="center">
  Raul Aragall Taberner <!-- follower-counter -->2438<!-- /follower-counter --> followers
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Animación de Nombre</title>
-  <style>
-    #nombre {
-      font-size: 2em;
-      font-family: monospace;
-      white-space: pre;
-    }
-  </style>
-</head>
-<body>
-  <div id="nombre"></div>
-  <script>
-    const texto = "Tu Nombre"; // Cambia esto por el nombre que quieras
-    const elemento = document.getElementById('nombre');
-    let idx = 0;
-    let modo = 'escribir';
 
-    function animar() {
-      if (modo === 'escribir') {
-        if (idx <= texto.length) {
-          elemento.textContent = texto.slice(0, idx);
-          idx++;
-          setTimeout(animar, 150);
-        } else {
-          modo = 'borrar';
-          setTimeout(animar, 700);
-        }
-      } else if (modo === 'borrar') {
-        if (idx >= 0) {
-          elemento.textContent = texto.slice(0, idx);
-          idx--;
-          setTimeout(animar, 80);
-        } else {
-          modo = 'escribir';
-          setTimeout(animar, 700);
-        }
-      }
-    }
-
-    animar();
-  </script>
-</body>
 </html>
 <p align="center">
 <br/>
