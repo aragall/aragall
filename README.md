@@ -1,7 +1,6 @@
-# <p align="center">💻 Raul Aragall Taberner 📈
-<p align="center">
- Raul Aragall Taberner <!-- follower-counter -->2438<!-- /follower-counter --> followers
-
+# <p align="center">💻 Raul Aragall Taberner 📈<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2600&pause=900&center=true&vCenter=true&width=950&lines=Raul+Aragall+Taberner;Estrategia+%7C+Marketing+%7C+Branding;Construyamos+algo+grande+%F0%9F%9A%80" alt="Typing SVG header" />
+</p>
 </html>
 <p align="center">
 <br/>
